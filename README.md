@@ -40,7 +40,7 @@
 5. Guarda lo que descargaste de hadoop en la carpeta Hadoop
 5. Para spark sigue este link https://archive.apache.org/dist/spark/ **Descarga spark.3.2.3-bin-hadoop3.2.tgz**
 6. Descomprime el fichero .tgz y guardalo en la carpeta de spark
-7. Descomprime en la carpeta Java en fichero jre1.8.0_202 que esta en setup/java
+7. Descomprime en la carpeta Java el fichero jre1.8.0_202 que esta en setup/java
 8. Crea las variables de entorno de la cuenta asi
 
 ![img_3.png](img_3.png)
